@@ -1,21 +1,21 @@
 ## Descripción
 
-Lorem ipsum....
+Este es mi portafolio como desarrollador de software
 
 ## Autor -
-**NOMBRE**
+**Juan Camilo Hidalgo Restrepo**
 
 
-* [LinkedIn] (https: //uw. Linkedin. con/in/aidoninio/)
+* [LinkedIn] (https: //uw. Linkedin. con/in/JuanCamiloHR/)
 * [Porfalio web] (https://midoninio. es/)
 
 ## Ver ejemplo en vivo
 
-- [EVLACEGITHUBPAGES) (BWACEGITUBPAGES)
+- [EVLACEGITHUBPAGES] (BWACEGITUBPAGES)
 
 ## Instalación
-Este proyecto no necesita de instalacidn. Sinplesente abre la carpeta o haz doble click en el .html
+Este proyecto no necesita de instalacidn. Simplemente abre la carpeta o haz doble click en él.
 
 ## Contratación
-Si quieres contratarne puedes escribirne a TUCORREOQOONINIO.CON para consultas.
+Si quieres contratarme puedes escribirme a juancahir1@gmail.com para consultas.
 
