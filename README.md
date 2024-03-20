@@ -7,11 +7,11 @@ Este es mi portafolio como desarrollador de software
 
 
 * [LinkedIn] (https://www.linkedin.com/in/juancamilohr/)
-* [Porfalio web] (https://midoninio. es/)
+* [Porfalio web] (https://juancamilohr.github.io/My_portfolio/)
 
 ## Ver ejemplo en vivo
 
-- [EVLACEGITHUBPAGES] (BWACEGITUBPAGES)
+- [https://juancamilohr.github.io/My_portfolio/] (https://juancamilohr.github.io/My_portfolio/)
 
 ## Instalación
 Este proyecto no necesita de instalacidn. Simplemente abre la carpeta o haz doble click en él.
