@@ -2,11 +2,11 @@
 
 Este es mi portafolio como desarrollador de software
 
-## Autor -
+## Autor - 
 **Juan Camilo Hidalgo Restrepo**
 
 
-* [LinkedIn] (https: //uw. Linkedin. con/in/JuanCamiloHR/)
+* [LinkedIn] (https://www.linkedin.com/in/juancamilohr/)
 * [Porfalio web] (https://midoninio. es/)
 
 ## Ver ejemplo en vivo
